@@ -168,6 +168,9 @@ html {
 	padding: 9px 15px;
 }
 
+@media only screen and (max-width: 769px) {
+.avia_playpause_icon { display: none !important; }}
+
 @media(min-width:768px) {
 	.navbar-default {
 		background-color: transparent;
